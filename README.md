@@ -16,7 +16,10 @@ This hands-on workshop guides you through **creating, customizing, and deploying
 4. **Deploy with GitHub Pages** following the guide in `workshop-guide.md`.
 
 ## 📬 Join the I Speak AI Community
-💬 Connect with us on **Discord**  
+## 💬 Join the I Speak AI Community on Discord!
+Connect with fellow AI enthusiasts, get support, and share your projects.  
+👉 [Join the Discord Community](https://discord.gg/zYYnpCVW)
+ 
 📢 Share your project on **LinkedIn**  
 
 ## 💡 Pay What You Want
