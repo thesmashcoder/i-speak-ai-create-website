@@ -20,4 +20,4 @@ This hands-on workshop guides you through **creating, customizing, and deploying
 📢 Share your project on **LinkedIn**  
 
 ## 💡 Pay What You Want
-This workshop operates on a **Pay What You Want** model to keep AI education accessible. **Support the project & donate here**: [Payment Link]
+This workshop operates on a **Pay What You Want** model to keep AI education accessible. **Support the project & donate here**: 👉 [Donate via Stripe](https://donate.stripe.com/cN202n1m5cZNeCk4gq)
