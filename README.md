@@ -24,3 +24,9 @@ Connect with fellow AI enthusiasts, get support, and share your projects.
 
 ## 💡 Pay What You Want
 This workshop operates on a **Pay What You Want** model to keep AI education accessible. **Support the project & donate here**: 👉 [Donate via Stripe](https://donate.stripe.com/cN202n1m5cZNeCk4gq)
+
+## 📅 Join the I Speak AI Workshop
+Stay updated with all upcoming workshops by adding our **Google Calendar** to yours!  
+
+📆 **Add to Calendar:** [Click Here](https://calendar.google.com/calendar/u/0/share?slt=1AXpMJubu8xZxhLOBGhpItQxMInZUQfJX3VwxOdcW50JI0pbkbeOzCV85fbTI8Ax1pr1ML9ifFPKuug)
+
